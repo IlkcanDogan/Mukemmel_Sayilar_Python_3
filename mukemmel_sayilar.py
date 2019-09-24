@@ -14,3 +14,7 @@ def mukemmelSayilar():
 
 
 print("1 ile 1000 Arasındaki Mükemmel Sayılar:",mukemmelSayilar())
+
+
+
+
